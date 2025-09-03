@@ -1,0 +1,1 @@
+/home/guilherme/Fecaf/Data_Structure_Strategy/regressao_linear/target/debug/regressao_linear: /home/guilherme/Fecaf/Data_Structure_Strategy/regressao_linear/src/lib.rs /home/guilherme/Fecaf/Data_Structure_Strategy/regressao_linear/src/main.rs

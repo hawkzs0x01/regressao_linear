@@ -1,0 +1,26 @@
+[package]
+name = "regressao_linear"
+version = "0.1.0"
+edition = "2021"
+authors = ["Seu Nome <seu.email@exemplo.com>"]
+description = "Biblioteca para análise de regressão linear e séries temporais"
+license = "MIT"
+keywords = ["regression", "statistics", "time-series", "machine-learning"]
+categories = ["science", "mathematics"]
+
+[dependencies]
+criterion = "0.5"
+# Para operações matemáticas mais avançadas (opcional)
+# num-traits = "0.2"
+
+[dev-dependencies]
+# Para testes com aproximações de ponto flutuante
+approx = "0.5"
+
+[[example]]
+name = "exemplo_basico"
+path = "examples/exemplo_basico.rs"
+
+[[example]]
+name = "analise_completa"
+path = "examples/analise_completa.rs"

@@ -1,0 +1,1 @@
+/home/guilherme/Fecaf/Data_Structure_Strategy/regressao_linear/target/debug/examples/exemplo_basico: /home/guilherme/Fecaf/Data_Structure_Strategy/regressao_linear/examples/exemplo_basico.rs /home/guilherme/Fecaf/Data_Structure_Strategy/regressao_linear/src/lib.rs
